@@ -1,0 +1,6 @@
+{
+  "name": "Kabyangan",
+  "description": "Academy of Elocution & Performing Arts dedicated to Bengali recitation, voice culture, poetic rhythm, and stage presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

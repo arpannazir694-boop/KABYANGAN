@@ -1,0 +1,14 @@
+{
+  "name": "kabyangan",
+  "version": "1.0.0",
+  "description": "Academy of Elocution & Performing Arts dedicated to Bengali recitation, voice culture, and stage presentation",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Static site ready'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
